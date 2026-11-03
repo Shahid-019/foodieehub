@@ -1,0 +1,17 @@
+# ignore all these files
+*.jpg
+*.png
+*.gif
+*.mp4
+*.mov
+*.jpeg
+
+# ignore vs code settings and workspace files
+.vscode/
+
+# ignore standard build , compiler, and outputs
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
